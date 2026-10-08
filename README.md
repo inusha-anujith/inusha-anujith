@@ -19,7 +19,9 @@ I specialize in building scalable enterprise applications, designing seamless us
 
 ### 🚀 Featured Projects
 
-*   **[Waveskill HR Manager](https://github.com/inusha-anujith/Waveskill-HR-Manager):** A comprehensive HR system featuring a custom Figma-designed UI, an Employee module, role-based access control, and Node-Cron background workers. 
+*   **Waveskill HR System:** A comprehensive HR system built with a decoupled architecture:
+    *   **[Frontend (Waveskill-HR-System)](https://github.com/inusha-anujith/Waveskill-HR-System):** Custom Figma-designed UI and Employee module.
+    *   **[Backend (Waveskill-Backend)](https://github.com/inusha-anujith/Waveskill-Backend):** Features role-based access control and Node-Cron background workers.
 *   **[APEXDEX](https://github.com/inusha-anujith/APEXDEX):** An SLA ticketing system built as a React SPA with an Express.js MVC backend, MySQL database, and an automated background engine for ticket escalation.
 *   **[FIXGO — Vehicle Assistance Marketplace](https://github.com/inusha-anujith/FIXGO):** A Sri Lankan roadside vehicle assistance platform connecting vehicle owners with nearby mechanics and towing operators on a first-come basis. As part of this collaborative project, I implemented the PayHere payment gateway (including Spring Boot MD5 hash generation and frontend integration), interactive maps, and core UI components.
 *   **[WealthWise](https://github.com/inusha-anujith/WealthWise):** An enterprise personal wealth and advisory platform utilizing a Spring Boot backend, Spring Security with JWT authentication, PostgreSQL, and a Next.js frontend dashboard.
